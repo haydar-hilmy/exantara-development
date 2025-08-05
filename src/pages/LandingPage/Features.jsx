@@ -1,5 +1,5 @@
 import { FlashOnOutlined, LanguageOutlined, SmartToyOutlined } from "@mui/icons-material";
-import AnimatedInView from "../../hooks/animatedInView";
+import AnimatedInView from "../../hooks/AnimatedInView";
 
 const FeatureSection = () => {
     const features = [

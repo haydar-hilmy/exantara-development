@@ -104,7 +104,7 @@ export default function FooterSection() {
                                 href={item.href}
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="w-8 h-8 flex items-center justify-center bg-[#3729b9] rounded-md hover:scale-105 transition text-white"
+                                className="w-8 h-8 flex items-center justify-center bg-blue-600 rounded-md hover:scale-105 transition text-white"
                             >
                                 {item.icon}
                             </a>
