@@ -1,4 +1,4 @@
-import AnimatedInView from "../../hooks/animatedInView";
+import AnimatedInView from "../../hooks/AnimatedInView";
 
 export default function CallToActionSection() {
     return (

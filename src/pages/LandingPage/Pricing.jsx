@@ -1,4 +1,3 @@
-import AnimatedInView from "../../hooks/AnimatedInView";
 
 export default function PricingSection() {
     const plans = [

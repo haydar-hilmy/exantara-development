@@ -1,5 +1,5 @@
 import { AttachMoneyOutlined, AutoAwesomeOutlined, DashboardOutlined, IntegrationInstructionsOutlined, SettingsOutlined } from "@mui/icons-material";
-import AnimatedInView from "../../hooks/animatedInView";
+import AnimatedInView from "../../hooks/AnimatedInView";
 
 
 const WhyCard = ({ icon, title, desc, reverse = false }) => {
