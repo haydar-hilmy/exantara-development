@@ -1,0 +1,19 @@
+/* Global Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;               /* Lebar vertikal */
+  height: 8px;              /* Tinggi horizontal */
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a;      /* Warna track (gelap) */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #555;   /* Warna thumb */
+  border-radius: 6px;
+  border: 2px solid #1a1a1a; /* Untuk memberi kesan lebih ramping */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #777;   /* Hover state */
+}
