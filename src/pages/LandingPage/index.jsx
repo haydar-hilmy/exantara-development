@@ -18,7 +18,7 @@ const LandingPage = () => {
                 {/* HERO SECTION */}
                 <HeroSection />
 
-                <div className="relative z-50 bg-[#080a1f] rounded-t-[10px] md:rounded-t-[25px] lg:rounded-t-[50px]">
+                <div className="relative z-10 bg-[#080a1f] rounded-t-[10px] md:rounded-t-[25px] lg:rounded-t-[50px]">
 
                     {/* ABOUT EXANTARA */}
                     <AboutSection />
